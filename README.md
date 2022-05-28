@@ -1,8 +1,8 @@
 # Tutorial gatsby
 Pequeno nivelamento de gatsby
 
-## Motivacao
-Entnder as diferencas entre tratamento de gatsby para renderizar as paginas e criar componentes
+## Motivação
+Entender as diferenças entre tratamento de gatsby para renderizar as paginas e criar componentes
 
 
 ## Feature
